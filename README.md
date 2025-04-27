@@ -83,15 +83,6 @@ Share your mock-up – save to file or copy straight to Slack / Figma / Jira…
 
 Happy sketching!
 
----
-
-## 🚀 Installation (dev build)
-
-1. Clone / download the repo.  
-2. Open **`chrome://extensions`** in Chrome.  
-3. Enable **Developer mode** (top-right).  
-4. Hit **Load unpacked** and choose the project folder.  
-5. Pin the *UI Builder* icon for quick access.
 
 ---
 
@@ -120,16 +111,6 @@ Happy sketching!
 - **Interact.js** – drag, drop & resize  
 - **Tailwind CSS** – zero-config styling  
 - Inline Shadow DOM for panel isolation
-
----
-
-## 🚧 Roadmap / TODO
-
-- Switch, Checkbox, Radio, Slider components  
-- Share / collaboration flow  
-- JSON export & code generation  
-- Multi-language UI (EN/RU) polishing  
-- Accessibility improvements
 
 ---
 
