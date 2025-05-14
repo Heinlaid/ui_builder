@@ -90,23 +90,12 @@ section{padding:2rem 1.5rem;}
 
 /* ---------- Product Hunt badge ---------- */
 .ph-section{text-align:center;padding:1.5rem 1rem 0;}
-.ph-badge{
-  display:inline-flex;
-  gap:.8rem;
-  align-items:center;
-  justify-content:center;
-  padding:.4rem 1rem;
-  border:2px solid #000;
-  border-radius:var(--radius);
-  background:#fff;
-  box-shadow:var(--shadow);
-  font-size:1.05rem;
-  text-decoration:none;
-  transition:var(--transition);
+
+.ph-section a {
+  display: inline-block;
+  margin: 0 0.7rem;
 }
-.ph-badge:hover{transform:translateY(-2px);}
-.ph-top{font-weight:700;}
-.ph-upvotes{color:#555;}
+
 
 /* ---------- video ---------- */
 .video{text-align:center;}
